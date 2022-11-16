@@ -7,7 +7,7 @@ Install dependencies with `npm install`.
 Set up by creating a `.env` file, and filling out these variables:
 
 ```
-POLYGONSCAN_API_KEY="your Mumbai http RPC URL"
+TESTNET_RPC="your Mumbai RPC URL"
 POLYGONSCAN_API_KEY="your Alchemy API key"
 PRIVATE_KEY="your wallet private key"
 ```
