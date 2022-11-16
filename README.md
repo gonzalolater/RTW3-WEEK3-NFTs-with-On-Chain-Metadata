@@ -7,8 +7,8 @@ Install dependencies with `npm install`.
 Set up by creating a `.env` file, and filling out these variables:
 
 ```
-GOERLI_URL="your Alchemy RPC URL"
-GOERLI_API_KEY="your Alchemy API key"
+POLYGONSCAN_API_KEY="your Mumbai http RPC URL"
+POLYGONSCAN_API_KEY="your Alchemy API key"
 PRIVATE_KEY="your wallet private key"
 ```
 
