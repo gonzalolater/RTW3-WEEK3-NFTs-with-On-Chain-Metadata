@@ -1,2 +1,13 @@
-# RTW·Week3-NFTs with On-Chain Metadata
- How to Make NFTs with On-Chain Metadata - Hardhat and JavaScript
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
