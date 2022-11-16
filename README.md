@@ -1,4 +1,4 @@
-# BuyMeACoffee solidity contract
+# PoK - Alchemy Road to Web3 - Week Three
 
 This repo contains a contract that implements tipping functionality.
 
@@ -26,23 +26,14 @@ Deploy your contract with:
 ```
 npx hardhat run scripts/deploy.js
 ```
-
-Run an example buy coffee flow locally with:
-
 ```
-npx hardhat run scripts/buy-coffee.js
-```
-
-Once you have a contract deployed to Goerli testnet, grab the contract address and update the `contractAddress` variable in `scripts/withdraw.js`, then:
-
-```
-npx hardhat run scripts/withdraw.js
-```
-
-will allow you to withdraw any tips stored on the contract.
-
 --------------------------------------------------------------------------------
 
-Deploy Challenge Week 3
+1. Deploy Challenge Week 3
 
-NFT: https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/674
+2. NFT: 
+https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/674
+
+3. image
+![image](https://user-images.githubusercontent.com/42863568/202237588-c1e38340-7855-48ef-adc1-8a692a219923.png)
+
