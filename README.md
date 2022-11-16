@@ -23,8 +23,8 @@ If you have any questions or concerns about this, please find someone you trust 
 
 Deploy your contract with:
 
-npx hardhat run scripts/deploy.js
 ```
+npx hardhat run scripts/deploy.js
 ```
 --------------------------------------------------------------------------------
 
